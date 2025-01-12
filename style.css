@@ -34,6 +34,7 @@ padding:10px;width:31.33%;border:2px solid black;}
 .icon img{display: flex;flex-start;}
 
 
+
 .section-4 .column-1{width:33.33%;text-align: center;position: relative;right:50px;margin-top:20px;}
 
 
@@ -50,5 +51,25 @@ padding:10px;width:31.33%;border:2px solid black;}
 .section-5 .row .column .logo{font-size:50px;font-weight: bold;
 display:flex;flex-start;}
 
-.section-6 ul{list-style: none;}
-.secction-6 .ull li a{display:block;color:black;text-decoration: none;}
+.section-6{display: flex;justify-content: space-between;
+align-items: center; margin-top:40px;}
+.section-6 h1{font-weight: 700;font-size: 44px;}
+.section-6 .email-input{width:576px;height: 91px;border:2px solid black;}
+
+.Section-7{display: flex;justify-content: space-between;margin-top:50px;}
+
+.Section-7 .logo-heading{display: flex;justify-content: space-between;}
+.Section-7 .Section-7-p{margin-top:20px;}
+.Section-7-center-ul li{list-style: none;}
+.Section-7-center-ul li a{text-decoration: none;font-weight: 200;font-size: 26.92px;color: #000000;
+}
+.Section-7-center{position:relative;left:200px;}
+.Section-7-right-ul{list-style: none;}
+.Section-7-right-ul li a{text-decoration: none;font-weight: 200;font-size: 26.92px;color: #000000;}
+
+
+
+.Section-8{display: flex;justify-content: space-between;margin-top:40px;}
+
+.Section-8 .s-icon i:first-child{color:black;font-size:30px;font-weight: bold;padding-right:20px;}
+.Section-8 .s-icon i{color:black;font-size: 30px;font-weight: bold;padding-right:20px;}
